@@ -1,5 +1,5 @@
 # JSON animation with Lottie
-JSON animation with [Lottie] (https://github.com/airbnb/lottie-ios)
+JSON animation with [Lottie](https://github.com/airbnb/lottie-ios)
 
 <img src="http://c2n.me/3PcpW83.gif" alt="alt text" style="width:476;height:902">
 
